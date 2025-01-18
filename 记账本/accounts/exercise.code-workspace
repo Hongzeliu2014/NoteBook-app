@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../.."
+	},
+	{
+		"path": "../../../尚硅谷NodeJS核心基础"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "尚硅谷NodeJS核心基础"
+  }
+}
